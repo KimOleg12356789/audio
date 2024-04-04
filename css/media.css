@@ -1,0 +1,649 @@
+
+
+
+
+
+@media screen and (max-width: 1367px) {
+	.service_n_slayder .slick-next {
+		right: -56px !important;
+	}
+
+	.service_n_slayder .slick-prev {
+		left: -56px !important;
+	}
+}
+
+@media screen and (max-width: 1300px){
+	.service_n_slayder .slick-next {
+		right: -35px !important;
+	}
+
+	.service_n_slayder .slick-prev {
+		left: -20px !important;
+	}
+
+	.service_n_slayder {
+	    padding: 35px 0 0 0;
+	    margin: 0 0 0 -15px;
+	}
+}
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1200px) {
+	.title {
+	    font-family: 'Evolventa-Bold';
+	    font-size: 45px;
+	    line-height: 40px;
+	}
+
+	.suptitle {
+	    font-size: 16px;
+	    line-height: 24px;
+	}
+
+	.service_w {
+	    height: 600px;
+	}
+
+	.service_w_flex {
+	    display: flex;
+	    height: 600px;
+	    align-items: center;
+	}
+
+	.service_n_slayder .slick-next {
+		display: none !important;
+	}
+
+	.service_n_slayder .slick-prev {
+		display: none !important;
+	}
+
+	.service_o_block {
+	    width: 33.33333333%;
+	    padding: 0 5px;
+	}
+
+	.service_o_wrap {
+	    display: flex;
+	    padding: 60px 0 0 0;
+	    margin: 0 -5px;
+	}
+
+	.service_f_block2 {
+	    width: 45%;
+	    padding: 0 0 0 20px;
+	}
+
+	.service_f_block {
+	    width: 55%;
+	}
+}	
+
+
+@media screen and (max-width: 1050px) {
+	
+
+  
+}
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 1024px) {
+	.service_u_block2 {
+	    width: 50%;
+	    padding: 0 0 0 20px;
+	}
+
+	.service_u_block {
+	    width: 50%;
+	}
+
+	.service_e_wrap {
+		padding: 27px 0 0 0;
+		flex-wrap: wrap;
+	}
+
+	.service_e_block {
+		width: 33.3333333%;
+		padding: 20px 5px 0 5px;
+	}
+
+	.service_e_block2 {
+	    width: 25%;
+	    padding: 20px 5px 0 5px;
+	}
+
+	.service_p_border {
+		padding: 0;
+	}
+
+	.service_s_inner {
+	    display: flex;
+	    align-items: center;
+	    height: auto;
+	}
+  
+}
+
+/* стили для sm-устройств */
+@media screen and (max-width: 992px) {
+	.service_s_block {
+	    width: 70%;
+	    padding: 0 50px 0 0;
+	}
+
+	.service_s_block2 {
+	    width: 30%;
+	}
+}
+
+
+@media screen and (max-width: 900px) {
+	
+
+
+}
+
+
+/* Ipad*/ 
+@media screen and (max-width: 768px) {
+	.title {
+	    font-family: 'Evolventa-Bold';
+	    font-size: 35px;
+	    line-height: 30px;
+	}
+
+	.service_w_pd {
+	    padding: 15px 0 0 0;
+	}
+
+	.suptitle {
+	    font-size: 14px;
+	    line-height: 24px;
+	}
+
+	.service_w_pd2 {
+	    padding: 20px 0 0 0;
+	}
+
+	.service_w_link {
+	    font-size: 16px;
+	    line-height: 21.6px;
+	    color: #272321;
+	    background: #fff;
+	    border: 1px solid #272321;
+	    padding: 12px 34px;
+	    border-radius: 50px;
+	    display: flex;
+	}
+
+	.service_w {
+	    height: 500px;
+	}
+
+	.service_w_flex {
+	    display: flex;
+	    height: 500px;
+	    align-items: center;
+	}
+
+	.service_u_wrap {
+		flex-wrap: wrap;
+	}
+
+	.service_u_block {
+		width: 100%;
+	}
+
+	.service_u_block2 {
+		text-align: center;
+		width: 100%;
+		padding: 30px 0 0 0;
+	}
+
+	.service_u {
+		padding: 40px 0 60px 0;
+	}
+
+	.service_u_link_mb {
+		display: block;
+	}
+
+	.service_u_link_pd {
+		display: none;
+	}
+
+	.service_u_top {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	.service_e {
+	    padding: 60px 0;
+	    background: #272321;
+	}
+
+	.title3 {
+	    font-family: 'Evolventa-Bold';
+	    font-size: 26px;
+	    line-height: 28px;
+	}
+
+	.service_e_suptitle {
+	    padding: 10px 0 0 0;
+	    font-size: 10px;
+	    line-height: 16px;
+	    text-align: center;
+	    color: #272321;
+	}
+
+	.service_e_border {
+		height: 280px;
+		padding: 0 10px;
+	}
+
+	.service_p {
+	    padding: 60px 0;
+	}
+
+	.service_p_wrap {
+		padding: 2px 0 0 0;
+		flex-wrap: wrap;
+	}
+
+	.service_p_block {
+		width: 50%;
+		padding: 20px 5px 0 5px;
+	}
+
+	.service_p_title {
+	    padding: 10px 0 0 0;
+	    font-family: 'Evolventa-Bold';
+	    font-size: 12px;
+	    line-height: 16px;
+	    text-align: center;
+	    color: #272321;
+	}
+
+	.service_s {
+	    padding: 60px 0;
+	    background: #272321;
+	}
+
+	.service_s_wrap {
+	    display: flex;
+	    align-items: center;
+	    padding: 22px 0 20px 0;
+	}
+
+	.service_s_suptitle {
+	    font-family: 'Evolventa-Bold';
+	    font-size: 12px;
+	    line-height: 16px;
+	    color: #F5F5F5;
+	}
+
+	.service_s_price {
+	    font-size: 12px;
+	    line-height: 20px;
+	    color: #F5F5F5;
+	}
+
+	.service_s_price_title {
+	    padding: 0px 0 0 0;
+	    font-size: 8px;
+	    line-height: 12px;
+	    color: #F5F5F5;
+	}
+
+	.service_n {
+	    padding: 60px 0 60px 0;
+	}
+
+	.service_n_slayder .slick-list {
+	    padding: 15px 140px 15px 0 !important;
+	}
+
+	.service_n_slayder .slick-slide {
+	    margin: 0 10px 0 10px !important;
+	}
+
+	.service_n_slayder {
+	    padding: 15px 0 0 0;
+	    margin: 0 0 0 -10px;
+	}
+
+	.service_n_slayder .slick-dots {
+		bottom: -15px !important;
+	}
+
+	.service_n_slayder .slick-dots li {
+		width: 70px !important;
+	}
+
+	.service_n_absolute {
+		padding: 20px 20px;
+		height: 100%;
+		bottom: 0;
+		display: flex;
+		flex-wrap: wrap;
+		align-content: space-between;
+	}
+
+	.service_n_title {
+	    font-family: 'Evolventa-Bold';
+	    font-size: 10px;
+	    line-height: 13px;
+	    color: #fff;
+	    width: 100%;
+	    text-align: right;
+	}
+
+	.service_n_link2 svg {
+		display: block;
+	}
+
+	.service_n_link2 p {
+		display: none;
+	}
+
+	.service_n_link2 {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 30px;
+		height: 30px;
+		border-radius: 50%;
+		padding: 0;
+		margin: 0;
+	}
+
+	.service_o {
+	    padding: 60px 0;
+	    background: #272321;
+	}
+
+	.service_o_wrap {
+		padding: 10px 0 0 0;
+		flex-wrap: wrap;
+	}
+
+	.service_o_block {
+		width: 100%;
+		padding: 20px 5px 0 5px;
+	}
+
+	.service_o_border {
+		padding: 0;
+		border: none;
+	}
+
+	.service_o_border:hover {
+		border: none;
+	}
+
+	.service_o_text {
+	    padding: 0 0 0 20px;
+	    max-width: 120px;
+	}
+
+	.service_o_title {
+	    font-size: 12px;
+	    line-height: 20px;
+	    color: #fff;
+	    display: -webkit-box;
+	    -webkit-line-clamp: 3;
+	    -webkit-box-orient: vertical;
+	    overflow: hidden;
+	}
+
+	.service_o_pd {
+	    padding: 20px 0 0 0;
+	}
+
+	.service_o_ln {
+	    display: flex;
+	    justify-content: flex-end;
+	    padding: 30px 0 0 0;
+	}
+
+	.service_f_block {
+		width: 100%;
+	}
+
+	.service_f_block2 {
+		display: none;
+	}
+
+	.service_f {
+		padding: 60px 0;
+	}
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 640px) {
+	.service_w_flex {
+		height: 540px;
+		padding: 60px 0;
+		align-content: space-between;
+	}
+
+	.service_w_block {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		align-content: space-between;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.service_w_top {
+		text-align: center;
+		width: 100%;
+	}
+
+	.service_bg {
+		background: url(../images/service_bg_mb.png) center 80% no-repeat;
+    	background-size: cover;
+	}
+
+	.service_w {
+	    height: 540px;
+	}
+
+	.service_s_block2 {
+	    width: 35%;
+	}
+
+	.service_s_block {
+	    width: 65%;
+	    padding: 0 50px 0 0;
+	}
+
+	.service_n_link_mb {
+		display: flex;
+		justify-content: flex-end;
+		padding: 45px 0 0 0;
+	}
+
+	.service_n_link_dk {
+		display: none;
+	}
+
+	.service_e_block2 {
+		width: 50%;
+	}
+
+	.service_bg4 {
+	    background: url(../images/service_bg4_mb.png) 0 50% no-repeat;
+	    background-size: cover;
+	}
+
+
+}
+
+@media screen and (max-width: 575px) {
+  	.service_e_block {
+  		width: 50%;
+  	}
+
+  	.service_bg2 {
+  		background-position: 80% 100%;
+  	}
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+  	.title {
+	    font-family: 'Evolventa-Bold';
+	    font-size: 26px;
+	    line-height: 28px;
+	}
+
+	.suptitle {
+	    font-size: 12px;
+	    line-height: 20px;
+	}
+
+	.service_w_pd {
+	    padding: 40px 0 0 0;
+	}
+
+	.service_u_pd {
+	    padding: 30px 0 0 0;
+	}
+
+	.service_u_suptitle {
+	    font-size: 12px;
+	    line-height: 20px;
+	    color: #272321;
+	}
+
+	.service_u_li {
+	    padding: 5px 0 0 0;
+	    display: flex;
+	    font-size: 10px;
+	    line-height: 20px;
+	    color: #272321;
+	}
+
+	.service_u_li {
+	    padding: 0px 0 0 0;
+	    display: flex;
+	    font-size: 10px;
+	    line-height: 20px;
+	    color: #272321;
+	}
+
+	.service_u_li:before {
+	    margin: 7px 0 0 0;
+	    width: 4px;
+	    height: 4px;
+	    border-radius: 50%;
+	    background: #272321;
+	    content: '';
+	}
+
+	.service_u_li p {
+	    width: 99%;
+	    padding: 0 0 0 5px;
+	}
+
+	.service_u_ul {
+	    padding: 5px 0 0 5px;
+	}
+
+	.service_s_block {
+	    width: 60%;
+	    padding: 0 50px 0 0;
+	}
+
+	.service_s_block2 {
+	    width: 40%;
+	}
+
+	.service_f_pd {
+		padding: 20px 0 0 0;
+	}
+
+	.service_f_wrap {
+		flex-wrap: wrap;
+	}
+
+	.service_f_form_block {
+		width: 100%;
+	}
+
+	.service_f_form_block2 {
+		width: 100%;
+		padding: 0;
+	}
+
+	.service_bg2 {
+	    background-position: 70% 100%;
+	}
+
+	.service_bg3 {
+		background: url(../images/service_bg3_mb.png) center 80% no-repeat;
+    	background-size: cover;
+	}
+
+	.service_w_top {
+		margin: 0 -5px;
+	}
+
+	.service_w_flex {
+		margin: 0 -5px;
+	}
+
+	.service_w_pd3 {
+		padding: 10px 0 0 0;
+	}
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+  	.service_bg {
+	    background: url(../images/service_bg_mb.png) center 0 no-repeat;
+	    background-size: cover;
+	}
+
+	.service_n_slayder .slick-dots {
+		left: 5px;
+	}
+
+	.service_bg2 {
+	    background-position: 64% 0;
+	}
+
+	.service_bg4 {
+	    background: url(../images/service_bg4_mb.png) 0 0% no-repeat;
+	    background-size: cover;
+	}
+
+	.service_w_br {
+		display: none;
+	}
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+	.service_e_border {
+		height: 100%;
+		padding: 0 10px 30px 10px;
+	}
+
+	.service_n_slayder .slick-list {
+	    padding: 15px 100px 15px 0 !important;
+	}
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 320px) {
+	
+}
